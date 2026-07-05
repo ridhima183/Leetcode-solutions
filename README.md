@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ridhima183/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/ridhima183/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [2404-most-frequent-even-element](https://github.com/ridhima183/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ridhima183/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [2404-most-frequent-even-element](https://github.com/ridhima183/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ridhima183/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2404-most-frequent-even-element](https://github.com/ridhima183/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Quickselect
 |  |
 | ------- |
