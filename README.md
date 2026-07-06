@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ridhima183/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/ridhima183/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/ridhima183/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ridhima183/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ridhima183/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0347-top-k-frequent-elements](https://github.com/ridhima183/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2404-most-frequent-even-element](https://github.com/ridhima183/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Quickselect
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ridhima183/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ridhima183/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
