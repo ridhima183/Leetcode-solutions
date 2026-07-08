@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ridhima183/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/ridhima183/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ridhima183/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/ridhima183/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ridhima183/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ridhima183/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ridhima183/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ridhima183/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/ridhima183/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ridhima183/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ridhima183/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ridhima183/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ridhima183/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ridhima183/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ridhima183/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/ridhima183/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/ridhima183/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ridhima183/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ridhima183/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
