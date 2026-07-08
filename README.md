@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/ridhima183/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/ridhima183/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ridhima183/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2390-removing-stars-from-a-string](https://github.com/ridhima183/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -99,9 +100,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/ridhima183/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [2390-removing-stars-from-a-string](https://github.com/ridhima183/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/ridhima183/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/ridhima183/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/ridhima183/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
