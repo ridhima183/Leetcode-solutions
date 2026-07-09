@@ -11,7 +11,7 @@ class Solution:
         for i in range(1,len(nums)+1):
             if i not in hash_set:
                 return i 
-        return (max(nums)+1)
+        return (len(nums)+1)
 
 
         
