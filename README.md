@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ridhima183/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ridhima183/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0704-binary-search](https://github.com/ridhima183/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2404-most-frequent-even-element](https://github.com/ridhima183/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/ridhima183/Leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/ridhima183/Leetcode-solutions/tree/master/1873-calculate-special-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ridhima183/Leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ridhima183/Leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
