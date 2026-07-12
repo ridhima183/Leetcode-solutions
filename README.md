@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ridhima183/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ridhima183/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/ridhima183/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/ridhima183/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ridhima183/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ridhima183/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1544-make-the-string-great](https://github.com/ridhima183/Leetcode-solutions/tree/master/1544-make-the-string-great) |
+| [1768-merge-strings-alternately](https://github.com/ridhima183/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/ridhima183/Leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ridhima183/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
