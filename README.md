@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ridhima183/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ridhima183/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Matrix
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ridhima183/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/ridhima183/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1544-make-the-string-great](https://github.com/ridhima183/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/ridhima183/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/ridhima183/Leetcode-solutions/tree/master/0704-binary-search) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ridhima183/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
