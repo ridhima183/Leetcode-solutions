@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ridhima183/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2404-most-frequent-even-element](https://github.com/ridhima183/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
@@ -186,4 +187,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/ridhima183/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
