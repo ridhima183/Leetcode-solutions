@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ridhima183/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/ridhima183/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ridhima183/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2404-most-frequent-even-element](https://github.com/ridhima183/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ridhima183/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ridhima183/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/ridhima183/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ridhima183/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/ridhima183/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2404-most-frequent-even-element](https://github.com/ridhima183/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ridhima183/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/ridhima183/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/ridhima183/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Monotonic Stack
 |  |
 | ------- |
