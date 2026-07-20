@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ridhima183/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2404-most-frequent-even-element](https://github.com/ridhima183/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ridhima183/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1544-make-the-string-great](https://github.com/ridhima183/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/ridhima183/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ridhima183/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/ridhima183/Leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ridhima183/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ridhima183/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ridhima183/Leetcode-solutions/tree/master/1291-sequential-digits) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ridhima183/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
