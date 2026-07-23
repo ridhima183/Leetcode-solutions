@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ridhima183/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2404-most-frequent-even-element](https://github.com/ridhima183/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ridhima183/Leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ridhima183/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ridhima183/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ridhima183/Leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## String
 |  |
 | ------- |
