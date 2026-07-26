@@ -1,17 +1,15 @@
-class Solution:
-    def findLucky(self, arr: List[int]) -> int:
-        count = {} 
-        for item in arr : 
-            if item in count: 
-                count[item]+=1
+from collections import Counter
+class Solution(object):
+    def findLucky(self, arr):
+        """
+        :type arr: List[int]
+        :rtype: int
+        """
+        freq = Counter(arr)
+        ans = -1
 
-            else:
-                count[item]=1
+        for num, count in freq.items():
+            if num == count:
+                ans = max(ans, num)
 
-        max_LuckyNum = 0 
-
-        for key,value in count.items():
-            if key == value and key > max_LuckyNum :
-                max_LuckyNum = key 
-
-        return max_LuckyNum if max_LuckyNum else -1
+        return ans
