@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ridhima183/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/ridhima183/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ridhima183/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0316-remove-duplicate-letters](https://github.com/ridhima183/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ridhima183/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ridhima183/Leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1395-count-number-of-teams](https://github.com/ridhima183/Leetcode-solutions/tree/master/1395-count-number-of-teams) |
 ## Binary Indexed Tree
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/ridhima183/Leetcode-solutions/tree/master/1395-count-number-of-teams) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ridhima183/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
