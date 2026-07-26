@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/ridhima183/Leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/ridhima183/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1395-count-number-of-teams](https://github.com/ridhima183/Leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1833-maximum-ice-cream-bars](https://github.com/ridhima183/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ridhima183/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -236,4 +237,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ridhima183/Leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1395-count-number-of-teams](https://github.com/ridhima183/Leetcode-solutions/tree/master/1395-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/ridhima183/Leetcode-solutions/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/ridhima183/Leetcode-solutions/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
