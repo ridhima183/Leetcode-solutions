@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ridhima183/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/ridhima183/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0316-remove-duplicate-letters](https://github.com/ridhima183/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/ridhima183/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/ridhima183/Leetcode-solutions/tree/master/0520-detect-capital) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/ridhima183/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhima183/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ridhima183/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ridhima183/Leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
