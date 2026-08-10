@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhima183/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ridhima183/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/ridhima183/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ridhima183/Leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/ridhima183/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ridhima183/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhima183/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ridhima183/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/ridhima183/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ridhima183/Leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ridhima183/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ridhima183/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0877-stone-game](https://github.com/ridhima183/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ridhima183/Leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1395-count-number-of-teams](https://github.com/ridhima183/Leetcode-solutions/tree/master/1395-count-number-of-teams) |
 ## Binary Indexed Tree
@@ -252,4 +255,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ridhima183/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ridhima183/Leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ridhima183/Leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ridhima183/Leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
