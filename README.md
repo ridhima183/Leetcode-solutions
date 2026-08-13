@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ridhima183/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ridhima183/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/ridhima183/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ridhima183/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ridhima183/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/ridhima183/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ridhima183/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/ridhima183/Leetcode-solutions/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/ridhima183/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/ridhima183/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ridhima183/Leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ridhima183/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1544-make-the-string-great](https://github.com/ridhima183/Leetcode-solutions/tree/master/1544-make-the-string-great) |
