@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/ridhima183/Leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/ridhima183/Leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/ridhima183/Leetcode-solutions/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/ridhima183/Leetcode-solutions/tree/master/1179-reformat-department-table) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ridhima183/Leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/ridhima183/Leetcode-solutions/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/ridhima183/Leetcode-solutions/tree/master/1527-patients-with-a-condition) |
